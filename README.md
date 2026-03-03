@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 💼 I’m currently working at Ostad Limited as a "Subject Matter Expert" 
 - 🔭 I’m currently working on Laravel & Vue.js web applications
 - 🌱 I’m currently learning advanced Laravel architecture, RESTful APIs, and modern Vue.js practices
 - 👯 I’m looking to collaborate on open-source and enterprise-level Laravel/Vue.js projects
