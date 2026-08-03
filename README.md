@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💼 I’m currently working at Ostad Limited as a "Subject Matter Expert" 
+- 💼 I’m currently working at Makehub Limited as a "FullStack Developer" 
 - 🔭 currently working on Laravel & Vue.js web applications
 - 🌱 currently learning advanced Laravel architecture, RESTful APIs, and modern Vue.js practices
 - 👯 looking to collaborate on open-source and enterprise-level Laravel/Vue.js projects
