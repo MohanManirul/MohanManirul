@@ -7,4 +7,5 @@
 - 🤔 looking for help with system design, performance optimization, and scalable application development
 - 💬 Ask me about Laravel, Vue.js, PHP, REST APIs, and MySQL , PostgreSQL
 - 📫 How to reach me: fiforeg@gmail.com . I enjoy solving complex problems with clean and maintainable code
+- 🔭 I actively use Agentic Coding and modern AI-powered development tools to improve software development speed, code quality, debugging, and problem-solving.
 
